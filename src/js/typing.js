@@ -12,7 +12,7 @@ typewriter
   .deleteChars(13)
   .typeString(' Maula')
   .pauseFor(1000)
-  .deleteChars(10)
+  .deleteChars(11)
   .typeString('Born on July 09 1998')
   .pauseFor(2500)
   .start();
