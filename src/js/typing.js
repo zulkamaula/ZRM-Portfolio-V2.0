@@ -13,6 +13,6 @@ typewriter
   .typeString(' Maula')
   .pauseFor(1000)
   .deleteChars(11)
-  .typeString('Born on July 09 1998')
+  .typeString('FE-DEV')
   .pauseFor(2500)
   .start();
